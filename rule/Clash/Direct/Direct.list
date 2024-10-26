@@ -152,7 +152,6 @@ DOMAIN-SUFFIX,morethan.tv
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,nanyangpt.com
-DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,ncore.cc
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,nicept.net
@@ -177,8 +176,6 @@ DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
-DOMAIN-SUFFIX,springer.com
-DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,tjupt.org
@@ -204,7 +201,6 @@ DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,ctc.qzs.qzone.qq.com
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
-DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,ess.apple.com
 DOMAIN-KEYWORD,gsa.apple.com
 DOMAIN-KEYWORD,humb.apple.com
