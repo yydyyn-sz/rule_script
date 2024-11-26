@@ -4,9 +4,9 @@
 # UPDATED: 2024-07-03 16:16:16
 # DOMAIN: 56
 # DOMAIN-KEYWORD: 35
-# DOMAIN-SUFFIX: 129
-# PROCESS-NAME: 36
-# TOTAL: 256
+# DOMAIN-SUFFIX: 123
+# PROCESS-NAME: 35
+# TOTAL: 249
 DOMAIN,ad.10010.com
 DOMAIN,ad.12306.cn
 DOMAIN,ain.bgm.tv
@@ -171,8 +171,6 @@ DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,researchgate.net
-DOMAIN-SUFFIX,sciencemag.org
-DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
@@ -187,7 +185,6 @@ DOMAIN-SUFFIX,upaiyun.com
 DOMAIN-SUFFIX,weather-analytics-events.apple.com
 DOMAIN-SUFFIX,weather-data.apple.com
 DOMAIN-SUFFIX,weather-map.apple.com
-DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-KEYWORD,anti-ad.net
 DOMAIN-KEYWORD,api-adservices.apple.com
